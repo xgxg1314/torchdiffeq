@@ -3,6 +3,7 @@
 This `examples` directory contains cleaned up code regarding the usage of adaptive ODE solvers in machine learning. The scripts in this directory assume that `torchdiffeq` is installed following instructions from the main directory.
 
 ## Demo
+
 The `ode_demo.py` file contains a short implementation of learning a dynamics model to mimic a spiral ODE.
 
 To visualize the training progress, run
